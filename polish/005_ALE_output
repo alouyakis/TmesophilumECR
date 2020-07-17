@@ -1,0 +1,15 @@
+005_2_polish.fasta:
+# ALE_score: -15832103.392526
+# numContigs: 2
+# totalAssemLen: 3396986
+# placeAvg: -11.871435
+# insertAvg: -2.361687
+# kmerAvg: -0.261861
+# depthScoreAvg: -0.470570
+# depthAvg: 47.293996
+# totalReads: 1202740
+# totalMappedReads: 1162042
+# totalUnmappedReads: 40698
+# totalPlacedReads: 786170
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354074

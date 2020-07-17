@@ -1,0 +1,15 @@
+001_starting_sequence.fasta:
+# ALE_score: -44415671.994305
+# numContigs: 2
+# totalAssemLen: 3332108
+# placeAvg: -58.801952
+# insertAvg: -2.775013
+# kmerAvg: -0.228996
+# depthScoreAvg: -0.541843
+# depthAvg: 46.762096
+# totalReads: 1202740
+# totalMappedReads: 1151261
+# totalUnmappedReads: 51479
+# totalPlacedReads: 777626
+# readAvgLen: 189.000000
+# avgReadOverlap: 200.374415

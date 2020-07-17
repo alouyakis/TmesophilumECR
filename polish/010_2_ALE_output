@@ -1,0 +1,1256 @@
+008_2_polish.fasta:
+# ALE_score: -15816420.548271
+# numContigs: 2
+# totalAssemLen: 3396990
+# placeAvg: -11.865465
+# insertAvg: -2.361591
+# kmerAvg: -0.261860
+# depthScoreAvg: -0.467061
+# depthAvg: 47.293973
+# totalReads: 1202740
+# totalMappedReads: 1162044
+# totalUnmappedReads: 40696
+# totalPlacedReads: 786170
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354215
+
+
+variant_1.fasta:
+# ALE_score: -15807103.601248
+# numContigs: 2
+# totalAssemLen: 3397056
+# placeAvg: -11.864503
+# insertAvg: -2.359566
+# kmerAvg: -0.261867
+# depthScoreAvg: -0.466703
+# depthAvg: 47.295795
+# totalReads: 1202740
+# totalMappedReads: 1162098
+# totalUnmappedReads: 40642
+# totalPlacedReads: 786209
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355922
+
+
+variant_2.fasta:
+# ALE_score: -15804819.820368
+# numContigs: 2
+# totalAssemLen: 3397068
+# placeAvg: -11.861942
+# insertAvg: -2.359165
+# kmerAvg: -0.261858
+# depthScoreAvg: -0.466800
+# depthAvg: 47.295495
+# totalReads: 1202740
+# totalMappedReads: 1162106
+# totalUnmappedReads: 40634
+# totalPlacedReads: 786212
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354567
+
+
+variant_3.fasta:
+# ALE_score: -15803263.071820
+# numContigs: 2
+# totalAssemLen: 3397078
+# placeAvg: -11.862801
+# insertAvg: -2.358769
+# kmerAvg: -0.261867
+# depthScoreAvg: -0.466662
+# depthAvg: 47.296150
+# totalReads: 1202740
+# totalMappedReads: 1162117
+# totalUnmappedReads: 40623
+# totalPlacedReads: 786221
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355660
+
+
+variant_4.fasta:
+# ALE_score: -15800704.536484
+# numContigs: 2
+# totalAssemLen: 3397162
+# placeAvg: -11.863463
+# insertAvg: -2.357893
+# kmerAvg: -0.261868
+# depthScoreAvg: -0.466657
+# depthAvg: 47.295644
+# totalReads: 1202740
+# totalMappedReads: 1162138
+# totalUnmappedReads: 40602
+# totalPlacedReads: 786235
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354889
+
+
+variant_5.fasta:
+# ALE_score: -15807033.983794
+# numContigs: 2
+# totalAssemLen: 3397065
+# placeAvg: -11.860759
+# insertAvg: -2.359514
+# kmerAvg: -0.261857
+# depthScoreAvg: -0.467132
+# depthAvg: 47.295512
+# totalReads: 1202740
+# totalMappedReads: 1162092
+# totalUnmappedReads: 40648
+# totalPlacedReads: 786207
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355761
+
+
+variant_6.fasta:
+# ALE_score: -15797433.478151
+# numContigs: 2
+# totalAssemLen: 3397151
+# placeAvg: -11.860952
+# insertAvg: -2.357368
+# kmerAvg: -0.261851
+# depthScoreAvg: -0.466731
+# depthAvg: 47.296263
+# totalReads: 1202740
+# totalMappedReads: 1162152
+# totalUnmappedReads: 40588
+# totalPlacedReads: 786241
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355341
+
+
+variant_7.fasta:
+# ALE_score: -15806355.586862
+# numContigs: 2
+# totalAssemLen: 3397049
+# placeAvg: -11.863737
+# insertAvg: -2.359424
+# kmerAvg: -0.261866
+# depthScoreAvg: -0.466642
+# depthAvg: 47.296045
+# totalReads: 1202740
+# totalMappedReads: 1162098
+# totalUnmappedReads: 40642
+# totalPlacedReads: 786211
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356061
+
+
+variant_8.fasta:
+# ALE_score: -15799372.217226
+# numContigs: 2
+# totalAssemLen: 3397121
+# placeAvg: -11.863759
+# insertAvg: -2.357558
+# kmerAvg: -0.261863
+# depthScoreAvg: -0.466538
+# depthAvg: 47.296772
+# totalReads: 1202740
+# totalMappedReads: 1162145
+# totalUnmappedReads: 40595
+# totalPlacedReads: 786241
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355737
+
+
+variant_9.fasta:
+# ALE_score: -15802120.889795
+# numContigs: 2
+# totalAssemLen: 3397114
+# placeAvg: -11.862585
+# insertAvg: -2.357979
+# kmerAvg: -0.261855
+# depthScoreAvg: -0.467089
+# depthAvg: 47.296261
+# totalReads: 1202740
+# totalMappedReads: 1162134
+# totalUnmappedReads: 40606
+# totalPlacedReads: 786232
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355443
+
+
+variant_10.fasta:
+# ALE_score: -15800039.576189
+# numContigs: 2
+# totalAssemLen: 3397134
+# placeAvg: -11.862348
+# insertAvg: -2.357771
+# kmerAvg: -0.261863
+# depthScoreAvg: -0.466796
+# depthAvg: 47.296352
+# totalReads: 1202740
+# totalMappedReads: 1162141
+# totalUnmappedReads: 40599
+# totalPlacedReads: 786237
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355740
+
+
+variant_11.fasta:
+# ALE_score: -15799079.576945
+# numContigs: 2
+# totalAssemLen: 3397111
+# placeAvg: -11.861148
+# insertAvg: -2.357470
+# kmerAvg: -0.261856
+# depthScoreAvg: -0.467018
+# depthAvg: 47.296736
+# totalReads: 1202740
+# totalMappedReads: 1162148
+# totalUnmappedReads: 40592
+# totalPlacedReads: 786241
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354979
+
+
+variant_12.fasta:
+# ALE_score: -15794628.235273
+# numContigs: 2
+# totalAssemLen: 3397235
+# placeAvg: -11.863303
+# insertAvg: -2.356399
+# kmerAvg: -0.261877
+# depthScoreAvg: -0.466593
+# depthAvg: 47.296453
+# totalReads: 1202740
+# totalMappedReads: 1162180
+# totalUnmappedReads: 40560
+# totalPlacedReads: 786261
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356017
+
+
+variant_13.fasta:
+# ALE_score: -15802106.449173
+# numContigs: 2
+# totalAssemLen: 3397076
+# placeAvg: -11.863279
+# insertAvg: -2.358014
+# kmerAvg: -0.261862
+# depthScoreAvg: -0.466872
+# depthAvg: 47.296496
+# totalReads: 1202740
+# totalMappedReads: 1162132
+# totalUnmappedReads: 40608
+# totalPlacedReads: 786229
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354955
+
+
+variant_14.fasta:
+# ALE_score: -15795848.679430
+# numContigs: 2
+# totalAssemLen: 3397179
+# placeAvg: -11.862067
+# insertAvg: -2.357289
+# kmerAvg: -0.261857
+# depthScoreAvg: -0.466225
+# depthAvg: 47.296064
+# totalReads: 1202740
+# totalMappedReads: 1162158
+# totalUnmappedReads: 40582
+# totalPlacedReads: 786248
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354345
+
+
+variant_15.fasta:
+# ALE_score: -15797275.034540
+# numContigs: 2
+# totalAssemLen: 3397187
+# placeAvg: -11.862415
+# insertAvg: -2.356973
+# kmerAvg: -0.261857
+# depthScoreAvg: -0.466874
+# depthAvg: 47.296901
+# totalReads: 1202740
+# totalMappedReads: 1162163
+# totalUnmappedReads: 40577
+# totalPlacedReads: 786254
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356885
+
+
+variant_16.fasta:
+# ALE_score: -15788768.815284
+# numContigs: 2
+# totalAssemLen: 3397185
+# placeAvg: -11.861681
+# insertAvg: -2.355200
+# kmerAvg: -0.261861
+# depthScoreAvg: -0.466399
+# depthAvg: 47.297344
+# totalReads: 1202740
+# totalMappedReads: 1162211
+# totalUnmappedReads: 40529
+# totalPlacedReads: 786275
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.353220
+
+
+variant_17.fasta:
+# ALE_score: -15801047.089940
+# numContigs: 2
+# totalAssemLen: 3397049
+# placeAvg: -11.862350
+# insertAvg: -2.358250
+# kmerAvg: -0.261866
+# depthScoreAvg: -0.466674
+# depthAvg: 47.296689
+# totalReads: 1202740
+# totalMappedReads: 1162131
+# totalUnmappedReads: 40609
+# totalPlacedReads: 786226
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354942
+
+
+variant_18.fasta:
+# ALE_score: -15801503.375555
+# numContigs: 2
+# totalAssemLen: 3397057
+# placeAvg: -11.861018
+# insertAvg: -2.358409
+# kmerAvg: -0.261867
+# depthScoreAvg: -0.466715
+# depthAvg: 47.296772
+# totalReads: 1202740
+# totalMappedReads: 1162123
+# totalUnmappedReads: 40617
+# totalPlacedReads: 786226
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355782
+
+
+variant_19.fasta:
+# ALE_score: -15799901.888170
+# numContigs: 2
+# totalAssemLen: 3397120
+# placeAvg: -11.862044
+# insertAvg: -2.357960
+# kmerAvg: -0.261852
+# depthScoreAvg: -0.466616
+# depthAvg: 47.296257
+# totalReads: 1202740
+# totalMappedReads: 1162137
+# totalUnmappedReads: 40603
+# totalPlacedReads: 786235
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355010
+
+
+variant_20.fasta:
+# ALE_score: -15800767.168439
+# numContigs: 2
+# totalAssemLen: 3397107
+# placeAvg: -11.861887
+# insertAvg: -2.358086
+# kmerAvg: -0.261861
+# depthScoreAvg: -0.466797
+# depthAvg: 47.296551
+# totalReads: 1202740
+# totalMappedReads: 1162134
+# totalUnmappedReads: 40606
+# totalPlacedReads: 786235
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355499
+
+
+variant_21.fasta:
+# ALE_score: -15802770.195895
+# numContigs: 2
+# totalAssemLen: 3397102
+# placeAvg: -11.860942
+# insertAvg: -2.358594
+# kmerAvg: -0.261859
+# depthScoreAvg: -0.466905
+# depthAvg: 47.295695
+# totalReads: 1202740
+# totalMappedReads: 1162118
+# totalUnmappedReads: 40622
+# totalPlacedReads: 786219
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355657
+
+
+variant_22.fasta:
+# ALE_score: -15802519.164951
+# numContigs: 2
+# totalAssemLen: 3397082
+# placeAvg: -11.862846
+# insertAvg: -2.358258
+# kmerAvg: -0.261859
+# depthScoreAvg: -0.466849
+# depthAvg: 47.297066
+# totalReads: 1202740
+# totalMappedReads: 1162128
+# totalUnmappedReads: 40612
+# totalPlacedReads: 786234
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356480
+
+
+variant_23.fasta:
+# ALE_score: -15797773.341391
+# numContigs: 2
+# totalAssemLen: 3397161
+# placeAvg: -11.863467
+# insertAvg: -2.356783
+# kmerAvg: -0.261855
+# depthScoreAvg: -0.466952
+# depthAvg: 47.297285
+# totalReads: 1202740
+# totalMappedReads: 1162165
+# totalUnmappedReads: 40575
+# totalPlacedReads: 786256
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356460
+
+
+variant_24.fasta:
+# ALE_score: -15806143.255943
+# numContigs: 2
+# totalAssemLen: 3397062
+# placeAvg: -11.862959
+# insertAvg: -2.359195
+# kmerAvg: -0.261859
+# depthScoreAvg: -0.466890
+# depthAvg: 47.295718
+# totalReads: 1202740
+# totalMappedReads: 1162102
+# totalUnmappedReads: 40638
+# totalPlacedReads: 786211
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355431
+
+
+variant_25.fasta:
+# ALE_score: -15805352.811278
+# numContigs: 2
+# totalAssemLen: 3397063
+# placeAvg: -11.864034
+# insertAvg: -2.359033
+# kmerAvg: -0.261858
+# depthScoreAvg: -0.466751
+# depthAvg: 47.295655
+# totalReads: 1202740
+# totalMappedReads: 1162109
+# totalUnmappedReads: 40631
+# totalPlacedReads: 786213
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354698
+
+
+variant_26.fasta:
+# ALE_score: -15802408.395332
+# numContigs: 2
+# totalAssemLen: 3397153
+# placeAvg: -11.864072
+# insertAvg: -2.358609
+# kmerAvg: -0.261861
+# depthScoreAvg: -0.466381
+# depthAvg: 47.294991
+# totalReads: 1202740
+# totalMappedReads: 1162120
+# totalUnmappedReads: 40620
+# totalPlacedReads: 786222
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354905
+
+
+variant_27.fasta:
+# ALE_score: -15805580.248323
+# numContigs: 2
+# totalAssemLen: 3397078
+# placeAvg: -11.862613
+# insertAvg: -2.359346
+# kmerAvg: -0.261864
+# depthScoreAvg: -0.466789
+# depthAvg: 47.295817
+# totalReads: 1202740
+# totalMappedReads: 1162103
+# totalUnmappedReads: 40637
+# totalPlacedReads: 786213
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356299
+
+
+variant_28.fasta:
+# ALE_score: -15802095.167275
+# numContigs: 2
+# totalAssemLen: 3397105
+# placeAvg: -11.862165
+# insertAvg: -2.358326
+# kmerAvg: -0.261855
+# depthScoreAvg: -0.466860
+# depthAvg: 47.295982
+# totalReads: 1202740
+# totalMappedReads: 1162127
+# totalUnmappedReads: 40613
+# totalPlacedReads: 786227
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354998
+
+
+variant_29.fasta:
+# ALE_score: -15797818.077690
+# numContigs: 2
+# totalAssemLen: 3397097
+# placeAvg: -11.861434
+# insertAvg: -2.357713
+# kmerAvg: -0.261860
+# depthScoreAvg: -0.466499
+# depthAvg: 47.297411
+# totalReads: 1202740
+# totalMappedReads: 1162147
+# totalUnmappedReads: 40593
+# totalPlacedReads: 786245
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356011
+
+
+variant_30.fasta:
+# ALE_score: -15810673.626360
+# numContigs: 2
+# totalAssemLen: 3396924
+# placeAvg: -11.863980
+# insertAvg: -2.360697
+# kmerAvg: -0.261860
+# depthScoreAvg: -0.466528
+# depthAvg: 47.295975
+# totalReads: 1202740
+# totalMappedReads: 1162065
+# totalUnmappedReads: 40675
+# totalPlacedReads: 786185
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354998
+
+
+variant_31.fasta:
+# ALE_score: -15800078.818122
+# numContigs: 2
+# totalAssemLen: 3397119
+# placeAvg: -11.862320
+# insertAvg: -2.357759
+# kmerAvg: -0.261858
+# depthScoreAvg: -0.466889
+# depthAvg: 47.296437
+# totalReads: 1202740
+# totalMappedReads: 1162143
+# totalUnmappedReads: 40597
+# totalPlacedReads: 786236
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355466
+
+
+variant_32.fasta:
+# ALE_score: -15803602.555125
+# numContigs: 2
+# totalAssemLen: 3397110
+# placeAvg: -11.863134
+# insertAvg: -2.358653
+# kmerAvg: -0.261863
+# depthScoreAvg: -0.466792
+# depthAvg: 47.296019
+# totalReads: 1202740
+# totalMappedReads: 1162119
+# totalUnmappedReads: 40621
+# totalPlacedReads: 786225
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355977
+
+
+variant_33.fasta:
+# ALE_score: -15798910.742014
+# numContigs: 2
+# totalAssemLen: 3397200
+# placeAvg: -11.861079
+# insertAvg: -2.357449
+# kmerAvg: -0.261845
+# depthScoreAvg: -0.466974
+# depthAvg: 47.295412
+# totalReads: 1202740
+# totalMappedReads: 1162148
+# totalUnmappedReads: 40592
+# totalPlacedReads: 786239
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355132
+
+
+variant_34.fasta:
+# ALE_score: -15798885.831228
+# numContigs: 2
+# totalAssemLen: 3397096
+# placeAvg: -11.862129
+# insertAvg: -2.358012
+# kmerAvg: -0.261855
+# depthScoreAvg: -0.466342
+# depthAvg: 47.295887
+# totalReads: 1202740
+# totalMappedReads: 1162138
+# totalUnmappedReads: 40602
+# totalPlacedReads: 786227
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354048
+
+
+variant_35.fasta:
+# ALE_score: -15804929.497778
+# numContigs: 2
+# totalAssemLen: 3397039
+# placeAvg: -11.862422
+# insertAvg: -2.359103
+# kmerAvg: -0.261860
+# depthScoreAvg: -0.466826
+# depthAvg: 47.295888
+# totalReads: 1202740
+# totalMappedReads: 1162107
+# totalUnmappedReads: 40633
+# totalPlacedReads: 786211
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354780
+
+
+variant_36.fasta:
+# ALE_score: -15792083.852689
+# numContigs: 2
+# totalAssemLen: 3397376
+# placeAvg: -11.863852
+# insertAvg: -2.355450
+# kmerAvg: -0.261877
+# depthScoreAvg: -0.466688
+# depthAvg: 47.295770
+# totalReads: 1202740
+# totalMappedReads: 1162203
+# totalUnmappedReads: 40537
+# totalPlacedReads: 786280
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356608
+
+
+variant_37.fasta:
+# ALE_score: -15800859.930756
+# numContigs: 2
+# totalAssemLen: 3397208
+# placeAvg: -11.863197
+# insertAvg: -2.357932
+# kmerAvg: -0.261875
+# depthScoreAvg: -0.466766
+# depthAvg: 47.295970
+# totalReads: 1202740
+# totalMappedReads: 1162139
+# totalUnmappedReads: 40601
+# totalPlacedReads: 786243
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356985
+
+
+variant_38.fasta:
+# ALE_score: -15799924.003820
+# numContigs: 2
+# totalAssemLen: 3397196
+# placeAvg: -11.862890
+# insertAvg: -2.357733
+# kmerAvg: -0.261862
+# depthScoreAvg: -0.466735
+# depthAvg: 47.294919
+# totalReads: 1202740
+# totalMappedReads: 1162143
+# totalUnmappedReads: 40597
+# totalPlacedReads: 786235
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.353799
+
+
+variant_39.fasta:
+# ALE_score: -15800426.402219
+# numContigs: 2
+# totalAssemLen: 3397134
+# placeAvg: -11.863523
+# insertAvg: -2.358054
+# kmerAvg: -0.261858
+# depthScoreAvg: -0.466446
+# depthAvg: 47.296201
+# totalReads: 1202740
+# totalMappedReads: 1162136
+# totalUnmappedReads: 40604
+# totalPlacedReads: 786238
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354831
+
+
+variant_40.fasta:
+# ALE_score: -15801881.250775
+# numContigs: 2
+# totalAssemLen: 3397109
+# placeAvg: -11.863367
+# insertAvg: -2.358549
+# kmerAvg: -0.261862
+# depthScoreAvg: -0.466378
+# depthAvg: 47.296172
+# totalReads: 1202740
+# totalMappedReads: 1162123
+# totalUnmappedReads: 40617
+# totalPlacedReads: 786228
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355798
+
+
+variant_41.fasta:
+# ALE_score: -15815999.564775
+# numContigs: 2
+# totalAssemLen: 3397032
+# placeAvg: -11.864435
+# insertAvg: -2.361555
+# kmerAvg: -0.261858
+# depthScoreAvg: -0.467113
+# depthAvg: 47.293365
+# totalReads: 1202740
+# totalMappedReads: 1162044
+# totalUnmappedReads: 40696
+# totalPlacedReads: 786169
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354373
+
+
+variant_42.fasta:
+# ALE_score: -15806937.933933
+# numContigs: 2
+# totalAssemLen: 3397082
+# placeAvg: -11.861751
+# insertAvg: -2.359470
+# kmerAvg: -0.261865
+# depthScoreAvg: -0.466931
+# depthAvg: 47.295107
+# totalReads: 1202740
+# totalMappedReads: 1162093
+# totalUnmappedReads: 40647
+# totalPlacedReads: 786208
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354771
+
+
+variant_43.fasta:
+# ALE_score: -15806611.018896
+# numContigs: 2
+# totalAssemLen: 3397049
+# placeAvg: -11.862613
+# insertAvg: -2.359368
+# kmerAvg: -0.261856
+# depthScoreAvg: -0.466860
+# depthAvg: 47.295841
+# totalReads: 1202740
+# totalMappedReads: 1162096
+# totalUnmappedReads: 40644
+# totalPlacedReads: 786209
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355699
+
+
+variant_44.fasta:
+# ALE_score: -15801697.991743
+# numContigs: 2
+# totalAssemLen: 3397117
+# placeAvg: -11.861356
+# insertAvg: -2.358500
+# kmerAvg: -0.261861
+# depthScoreAvg: -0.466876
+# depthAvg: 47.295940
+# totalReads: 1202740
+# totalMappedReads: 1162128
+# totalUnmappedReads: 40612
+# totalPlacedReads: 786227
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355537
+
+
+variant_45.fasta:
+# ALE_score: -15790865.492484
+# numContigs: 2
+# totalAssemLen: 3397168
+# placeAvg: -11.861995
+# insertAvg: -2.355581
+# kmerAvg: -0.261852
+# depthScoreAvg: -0.466661
+# depthAvg: 47.297520
+# totalReads: 1202740
+# totalMappedReads: 1162202
+# totalUnmappedReads: 40538
+# totalPlacedReads: 786271
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.353996
+
+
+variant_46.fasta:
+# ALE_score: -15805099.324295
+# numContigs: 2
+# totalAssemLen: 3397053
+# placeAvg: -11.863025
+# insertAvg: -2.359217
+# kmerAvg: -0.261863
+# depthScoreAvg: -0.466539
+# depthAvg: 47.296056
+# totalReads: 1202740
+# totalMappedReads: 1162102
+# totalUnmappedReads: 40638
+# totalPlacedReads: 786213
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355829
+
+
+variant_47.fasta:
+# ALE_score: -15802325.247305
+# numContigs: 2
+# totalAssemLen: 3397062
+# placeAvg: -11.862547
+# insertAvg: -2.358427
+# kmerAvg: -0.261859
+# depthScoreAvg: -0.466706
+# depthAvg: 47.296489
+# totalReads: 1202740
+# totalMappedReads: 1162123
+# totalUnmappedReads: 40617
+# totalPlacedReads: 786222
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355899
+
+
+variant_48.fasta:
+# ALE_score: -15803957.690030
+# numContigs: 2
+# totalAssemLen: 3397077
+# placeAvg: -11.863362
+# insertAvg: -2.358720
+# kmerAvg: -0.261878
+# depthScoreAvg: -0.466690
+# depthAvg: 47.295797
+# totalReads: 1202740
+# totalMappedReads: 1162115
+# totalUnmappedReads: 40625
+# totalPlacedReads: 786218
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354853
+
+
+variant_49.fasta:
+# ALE_score: -15804723.040448
+# numContigs: 2
+# totalAssemLen: 3396957
+# placeAvg: -11.863153
+# insertAvg: -2.359526
+# kmerAvg: -0.261862
+# depthScoreAvg: -0.466093
+# depthAvg: 47.296656
+# totalReads: 1202740
+# totalMappedReads: 1162093
+# totalUnmappedReads: 40647
+# totalPlacedReads: 786205
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354723
+
+
+variant_50.fasta:
+# ALE_score: -15806123.156137
+# numContigs: 2
+# totalAssemLen: 3397105
+# placeAvg: -11.863583
+# insertAvg: -2.359430
+# kmerAvg: -0.261873
+# depthScoreAvg: -0.466532
+# depthAvg: 47.294770
+# totalReads: 1202740
+# totalMappedReads: 1162097
+# totalUnmappedReads: 40643
+# totalPlacedReads: 786207
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354960
+
+
+variant_51.fasta:
+# ALE_score: -15803848.556034
+# numContigs: 2
+# totalAssemLen: 3397057
+# placeAvg: -11.860959
+# insertAvg: -2.358963
+# kmerAvg: -0.261857
+# depthScoreAvg: -0.466852
+# depthAvg: 47.295490
+# totalReads: 1202740
+# totalMappedReads: 1162109
+# totalUnmappedReads: 40631
+# totalPlacedReads: 786211
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354144
+
+
+variant_52.fasta:
+# ALE_score: -15806067.029882
+# numContigs: 2
+# totalAssemLen: 3397054
+# placeAvg: -11.862097
+# insertAvg: -2.359202
+# kmerAvg: -0.261864
+# depthScoreAvg: -0.466982
+# depthAvg: 47.295840
+# totalReads: 1202740
+# totalMappedReads: 1162101
+# totalUnmappedReads: 40639
+# totalPlacedReads: 786211
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355473
+
+
+variant_53.fasta:
+# ALE_score: -15798668.041056
+# numContigs: 2
+# totalAssemLen: 3397228
+# placeAvg: -11.862600
+# insertAvg: -2.357465
+# kmerAvg: -0.261855
+# depthScoreAvg: -0.466749
+# depthAvg: 47.295202
+# totalReads: 1202740
+# totalMappedReads: 1162152
+# totalUnmappedReads: 40588
+# totalPlacedReads: 786242
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355126
+
+
+variant_54.fasta:
+# ALE_score: -15803748.165564
+# numContigs: 2
+# totalAssemLen: 3397054
+# placeAvg: -11.863958
+# insertAvg: -2.359019
+# kmerAvg: -0.261854
+# depthScoreAvg: -0.466301
+# depthAvg: 47.295635
+# totalReads: 1202740
+# totalMappedReads: 1162109
+# totalUnmappedReads: 40631
+# totalPlacedReads: 786212
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354331
+
+
+variant_55.fasta:
+# ALE_score: -15795281.221383
+# numContigs: 2
+# totalAssemLen: 3397354
+# placeAvg: -11.863915
+# insertAvg: -2.356499
+# kmerAvg: -0.261862
+# depthScoreAvg: -0.466596
+# depthAvg: 47.294315
+# totalReads: 1202740
+# totalMappedReads: 1162178
+# totalUnmappedReads: 40562
+# totalPlacedReads: 786257
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354974
+
+
+variant_56.fasta:
+# ALE_score: -15803262.657407
+# numContigs: 2
+# totalAssemLen: 3397077
+# placeAvg: -11.862737
+# insertAvg: -2.358767
+# kmerAvg: -0.261861
+# depthScoreAvg: -0.466610
+# depthAvg: 47.295885
+# totalReads: 1202740
+# totalMappedReads: 1162115
+# totalUnmappedReads: 40625
+# totalPlacedReads: 786219
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354974
+
+
+variant_57.fasta:
+# ALE_score: -15796783.876911
+# numContigs: 2
+# totalAssemLen: 3397221
+# placeAvg: -11.863381
+# insertAvg: -2.357207
+# kmerAvg: -0.261861
+# depthScoreAvg: -0.466367
+# depthAvg: 47.295776
+# totalReads: 1202740
+# totalMappedReads: 1162160
+# totalUnmappedReads: 40580
+# totalPlacedReads: 786249
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355368
+
+
+variant_58.fasta:
+# ALE_score: -15796262.557519
+# numContigs: 2
+# totalAssemLen: 3397223
+# placeAvg: -11.862048
+# insertAvg: -2.357092
+# kmerAvg: -0.261871
+# depthScoreAvg: -0.466625
+# depthAvg: 47.295896
+# totalReads: 1202740
+# totalMappedReads: 1162164
+# totalUnmappedReads: 40576
+# totalPlacedReads: 786251
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355486
+
+
+variant_59.fasta:
+# ALE_score: -15806367.780676
+# numContigs: 2
+# totalAssemLen: 3397091
+# placeAvg: -11.863063
+# insertAvg: -2.359316
+# kmerAvg: -0.261873
+# depthScoreAvg: -0.466879
+# depthAvg: 47.294550
+# totalReads: 1202740
+# totalMappedReads: 1162102
+# totalUnmappedReads: 40638
+# totalPlacedReads: 786205
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.353686
+
+
+variant_60.fasta:
+# ALE_score: -15804172.563618
+# numContigs: 2
+# totalAssemLen: 3397083
+# placeAvg: -11.862269
+# insertAvg: -2.358955
+# kmerAvg: -0.261852
+# depthScoreAvg: -0.466765
+# depthAvg: 47.295493
+# totalReads: 1202740
+# totalMappedReads: 1162111
+# totalUnmappedReads: 40629
+# totalPlacedReads: 786216
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354422
+
+
+variant_61.fasta:
+# ALE_score: -15805757.387432
+# numContigs: 2
+# totalAssemLen: 3397061
+# placeAvg: -11.861723
+# insertAvg: -2.359429
+# kmerAvg: -0.261858
+# depthScoreAvg: -0.466849
+# depthAvg: 47.295358
+# totalReads: 1202740
+# totalMappedReads: 1162099
+# totalUnmappedReads: 40641
+# totalPlacedReads: 786207
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354853
+
+
+variant_62.fasta:
+# ALE_score: -15803112.341468
+# numContigs: 2
+# totalAssemLen: 3397087
+# placeAvg: -11.862265
+# insertAvg: -2.359011
+# kmerAvg: -0.261855
+# depthScoreAvg: -0.466502
+# depthAvg: 47.295696
+# totalReads: 1202740
+# totalMappedReads: 1162112
+# totalUnmappedReads: 40628
+# totalPlacedReads: 786217
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355280
+
+
+variant_63.fasta:
+# ALE_score: -15803628.780886
+# numContigs: 2
+# totalAssemLen: 3397095
+# placeAvg: -11.862065
+# insertAvg: -2.359057
+# kmerAvg: -0.261856
+# depthScoreAvg: -0.466599
+# depthAvg: 47.295053
+# totalReads: 1202740
+# totalMappedReads: 1162111
+# totalUnmappedReads: 40629
+# totalPlacedReads: 786214
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.353761
+
+
+variant_64.fasta:
+# ALE_score: -15794958.699114
+# numContigs: 2
+# totalAssemLen: 3396996
+# placeAvg: -11.864824
+# insertAvg: -2.361551
+# kmerAvg: -0.261862
+# depthScoreAvg: -0.460857
+# depthAvg: 47.293911
+# totalReads: 1202740
+# totalMappedReads: 1162044
+# totalUnmappedReads: 40696
+# totalPlacedReads: 786170
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354306
+
+
+variant_65.fasta:
+# ALE_score: -15802141.263854
+# numContigs: 2
+# totalAssemLen: 3397168
+# placeAvg: -11.863832
+# insertAvg: -2.358245
+# kmerAvg: -0.261867
+# depthScoreAvg: -0.466578
+# depthAvg: 47.295356
+# totalReads: 1202740
+# totalMappedReads: 1162127
+# totalUnmappedReads: 40613
+# totalPlacedReads: 786228
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355822
+
+
+variant_66.fasta:
+# ALE_score: -15805530.673894
+# numContigs: 2
+# totalAssemLen: 3397059
+# placeAvg: -11.864299
+# insertAvg: -2.359403
+# kmerAvg: -0.261865
+# depthScoreAvg: -0.466340
+# depthAvg: 47.295598
+# totalReads: 1202740
+# totalMappedReads: 1162099
+# totalUnmappedReads: 40641
+# totalPlacedReads: 786208
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355509
+
+
+variant_67.fasta:
+# ALE_score: -15809188.504365
+# numContigs: 2
+# totalAssemLen: 3397066
+# placeAvg: -11.862733
+# insertAvg: -2.360058
+# kmerAvg: -0.261862
+# depthScoreAvg: -0.466996
+# depthAvg: 47.294509
+# totalReads: 1202740
+# totalMappedReads: 1162083
+# totalUnmappedReads: 40657
+# totalPlacedReads: 786195
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354603
+
+
+variant_68.fasta:
+# ALE_score: -15802520.377239
+# numContigs: 2
+# totalAssemLen: 3397190
+# placeAvg: -11.863636
+# insertAvg: -2.358633
+# kmerAvg: -0.261862
+# depthScoreAvg: -0.466445
+# depthAvg: 47.294217
+# totalReads: 1202740
+# totalMappedReads: 1162121
+# totalUnmappedReads: 40619
+# totalPlacedReads: 786220
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354304
+
+
+variant_69.fasta:
+# ALE_score: -15813539.435147
+# numContigs: 2
+# totalAssemLen: 3396893
+# placeAvg: -11.863029
+# insertAvg: -2.361295
+# kmerAvg: -0.261860
+# depthScoreAvg: -0.466878
+# depthAvg: 47.295696
+# totalReads: 1202740
+# totalMappedReads: 1162049
+# totalUnmappedReads: 40691
+# totalPlacedReads: 786174
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.354784
+
+
+variant_70.fasta:
+# ALE_score: -15805138.076895
+# numContigs: 2
+# totalAssemLen: 3397043
+# placeAvg: -11.862314
+# insertAvg: -2.359153
+# kmerAvg: -0.261854
+# depthScoreAvg: -0.466797
+# depthAvg: 47.296338
+# totalReads: 1202740
+# totalMappedReads: 1162104
+# totalUnmappedReads: 40636
+# totalPlacedReads: 786214
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.356185
+
+
+variant_71.fasta:
+# ALE_score: -15804816.618336
+# numContigs: 2
+# totalAssemLen: 3397070
+# placeAvg: -11.860630
+# insertAvg: -2.359136
+# kmerAvg: -0.261852
+# depthScoreAvg: -0.466955
+# depthAvg: 47.295575
+# totalReads: 1202740
+# totalMappedReads: 1162103
+# totalUnmappedReads: 40637
+# totalPlacedReads: 786210
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355553
+
+
+variant_72.fasta:
+# ALE_score: -15803923.757383
+# numContigs: 2
+# totalAssemLen: 3397117
+# placeAvg: -11.861704
+# insertAvg: -2.358702
+# kmerAvg: -0.261861
+# depthScoreAvg: -0.466985
+# depthAvg: 47.295816
+# totalReads: 1202740
+# totalMappedReads: 1162115
+# totalUnmappedReads: 40625
+# totalPlacedReads: 786224
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.355780
+
+
+variant_all.fasta:
+# ALE_score: -14782036.057008
+# numContigs: 2
+# totalAssemLen: 3405417
+# placeAvg: -11.665314
+# insertAvg: -2.136591
+# kmerAvg: -0.261898
+# depthScoreAvg: -0.433460
+# depthAvg: 47.429162
+# totalReads: 1202740
+# totalMappedReads: 1167758
+# totalUnmappedReads: 34982
+# totalPlacedReads: 790096
+# readAvgLen: 189.000000
+# avgReadOverlap: 204.425884
