@@ -6,16 +6,16 @@
 Combined the two illumina runs into single fwd and rev files. Ran unicycler assembly optimizer (spades for illumina / miniasm+racon for long reads) in a hybrid assembly first with the unassembled minion data, then with the assembled data. Additionally, ran unicycler_polish using the minion assembly and polished with the illumina reads. The latter resulted in the best overall assembly, so far. CheckM was used to test the assembly with 100% completion using the family marker set and 92.67% completion with the genus marker set. The low genus score is likely because only two genomes were used to generate the markers and it's likley that the species are more divergent than those two genomes can account for. 
 
 Program versions:
-unicycler v0.4.7 
-Racon v0.5.0 
-SPAdes v3.13.0 
-samtools v1.9 
-minimap2 v2.17 
-bowtie2 v2.3.5.1 
-freebayes v1.1.0 
-PBSuite v15.8.24 
-pilon v1.22 
-blast v2.7.1 
+unicycler v0.4.7  
+Racon v0.5.0  
+SPAdes v3.13.0  
+samtools v1.9  
+minimap2 v2.17  
+bowtie2 v2.3.5.1  
+freebayes v1.1.0  
+PBSuite v15.8.24  
+pilon v1.22  
+blast v2.7.1  
 
 #### Housekeeping:
 ```bash
